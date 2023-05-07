@@ -1,3 +1,6 @@
+% A code calculate diplacement and stress using 2D 4-Node Isoparametric Formulation.
+% It is for a FEM course in ZJU.
+
 clc
 clear;
 node=[1 0 0 0;
